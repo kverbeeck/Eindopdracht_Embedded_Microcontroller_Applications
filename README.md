@@ -1,4 +1,4 @@
-# Eindopdracht_Embedded_System_Applications
+# Eindopdracht_Embedded_Microcontroller_Applications
 
 We hebben gezien hoe we een MQTT systeem opzetten met je ESP32 en Raspberry Pi en de uitgelezen data kan worden weergegeven in Grafana.
 Voor de eindopdracht ga je je bestaande project uitbreiden met drukknoppen, sensoren en actuatoren om zo een mini automatisatie te bekomen.
