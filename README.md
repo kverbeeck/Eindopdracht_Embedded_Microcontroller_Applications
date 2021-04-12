@@ -20,3 +20,7 @@ De documentatie bevat:
 - Beschrijf de werking van je ESP32 code ( welke stappen doorloopt het programma, ...)
 - Beschrijf de werking van je Raspberry Pi code ( welke stappen doorloopt het programma, ...)
 - Hoe controleer je de werking van MQTT (worden pakketten doorgestuurd, ontvangen, ...)
+
+Filmpje Werking
+https://www.youtube.com/watch?v=sMnkvHMmoqA
+
