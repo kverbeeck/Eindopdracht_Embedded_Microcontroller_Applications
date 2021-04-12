@@ -1,4 +1,4 @@
-# Eindopdracht_Embedded_Microcontroller_Applications
+# Eindopdracht_Embedded_Microcontroller_Applications: IoT Green House
 
 We hebben gezien hoe we een MQTT systeem opzetten met je ESP32 en Raspberry Pi en de uitgelezen data kan worden weergegeven in Grafana.
 Voor de eindopdracht ga je je bestaande project uitbreiden met drukknoppen, sensoren en actuatoren om zo een mini automatisatie te bekomen.
@@ -21,6 +21,7 @@ De documentatie bevat:
 - Beschrijf de werking van je Raspberry Pi code ( welke stappen doorloopt het programma, ...)
 - Hoe controleer je de werking van MQTT (worden pakketten doorgestuurd, ontvangen, ...)
 
-Filmpje Werking
+Filmpje Werking:
 https://www.youtube.com/watch?v=sMnkvHMmoqA
 
+Link to the kitlist:
