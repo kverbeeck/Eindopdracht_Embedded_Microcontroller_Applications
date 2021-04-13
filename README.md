@@ -25,3 +25,4 @@ Filmpje Werking:
 https://www.youtube.com/watch?v=sMnkvHMmoqA
 
 Link to the kitlist:
+https://docs.google.com/spreadsheets/d/10-bVNOFau_koyHT8Ko_ebg5AoWfNlOXrC-3xz7-o5CA/edit#gid=0
